@@ -50,6 +50,6 @@
 
         service.getAlreadyBoughtItems = function() {
             return alreadyBoughtItems;
-        };
+        }; 
     }
 })();
