@@ -1,4 +1,4 @@
-(function() {
+ (function() {
     'use strict';
 
     angular.module('ShoppingListCheckOff', [])
@@ -51,5 +51,5 @@
         service.getAlreadyBoughtItems = function() {
             return alreadyBoughtItems;
         };
-    } 
+    }
 })();
